@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# C++ / CMake
+build/
+*.o
+*.out
+a.out
+
+# ROS 2 workspace output
+install/
+log/
+
+# Editors / OS
+.vscode/
+.obsidian/workspace*.json
+.DS_Store
+Thumbs.db
