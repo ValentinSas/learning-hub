@@ -13,9 +13,9 @@ About **4–4.5 hours a week** in four fixed slots. "Fixed" means you choose the
 
 Fill these in during Week 1 and don't renegotiate them every week.
 
-- S1: ______ (day, time)
-- S2: ______
-- S3: ______
+- S1: Python (day, time)
+- S2: build tools Linux
+- S3: Github init
 - Review: ______
 
 ---
