@@ -1,14 +1,14 @@
 # Python
 
-**Status:** Not started
-**Now working on:** —
-**Last updated:** 2026-11-10
+**Status:** Started
+**Now working on:** S1
+**Last updated:** 2026-11-16
 
 Tick a topic when you could explain it to someone *and* you've used it in your own code. Afterwards, add where you used it, e.g. `- [x] Comprehensions → practice/python/hours.py`.
 
 ## Phase 1 · Foundations
 
-- [ ] Running Python, the REPL, virtual environments
+- [X] Running Python, the REPL, virtual environments
 - [ ] Numbers, strings, f-strings
 - [ ] `if` / `for` / `while`, `range`
 - [ ] Lists and tuples
@@ -40,7 +40,7 @@ Tick a topic when you could explain it to someone *and* you've used it in your o
 ## Built with it
 
 | Project | What it does | Where |
-|---|---|---|
+| S1 |basic commadn for python| practice/hello.py|
 | `new_week.py` | Creates next week's note from the template | `practice/python/` |
 | `hours.py` | Sums hours across all week notes | `practice/python/` |
 | Hub dashboard | Web view of this repo | — |
