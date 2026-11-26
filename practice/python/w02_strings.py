@@ -102,7 +102,10 @@ check("debug", debug, "hours=4.5")
 
 
 # ---------------------------------------------------------------------------
-# 5 · Not checked here: try these in the REPL and write what happens in your log.
-#   s = "hub"
-#   s[0] = "H"        # why does this fail?
-#   s = "H" + s[1:]   # and why does this work?
+ #5 · Not checked here: try these in the REPL and write what happens in your log.
+s="hub"
+#s[0] = "H"        # why does this fail?
+#s is a string, is imutable, so you can't change its characters in place. You can only make a new string from it.
+s = "H" + s[1:]   # and why does this work?
+#this is a new string, made by concatenating "H" with the rest of s (s[1:]), which is "ub", so it becomes "Hub".
+print(s)
