@@ -1,16 +1,16 @@
 # Python
 
 **Status:** Started
-**Now working on:** S1
-**Last updated:** 2026-11-16
+**Now working on:** S2
+**Last updated:** 2026-11-26
 
 Tick a topic when you could explain it to someone *and* you've used it in your own code. Afterwards, add where you used it, e.g. `- [x] Comprehensions → practice/python/hours.py`.
 
 ## Phase 1 · Foundations
 
 - [X] Running Python, the REPL, virtual environments
-- [ ] Numbers, strings, f-strings
-- [ ] `if` / `for` / `while`, `range`
+- [x] Numbers, strings, f-strings
+- [x] `if` / `for` / `while`, `range`
 - [ ] Lists and tuples
 - [ ] Dicts and sets
 - [ ] Comprehensions
