@@ -108,4 +108,4 @@ s="hub"
 #s is a string, is imutable, so you can't change its characters in place. You can only make a new string from it.
 s = "H" + s[1:]   # and why does this work?
 #this is a new string, made by concatenating "H" with the rest of s (s[1:]), which is "ub", so it becomes "Hub".
-print(s)
+print("Muie")
